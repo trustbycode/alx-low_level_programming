@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - program that prints all possible different combinations of two digits
+ * main - a simple program that outputs 0-9 separated by commas
  * 
  * Return: 0 on success
  */
-
 int main(void)
 {
 	int n1 = 48;
