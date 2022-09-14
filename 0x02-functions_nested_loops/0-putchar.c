@@ -1,21 +1,20 @@
 #include "main.h"
 
 /**
- * main - print putchar
- * Return: always 0
+ * main - main block
+ * description: prints _putchar followed by a new line
+ * Return: 0
  */
-
 int main(void)
 {
-	_putchar('_');
-	_putchar('p');
-	_putchar('u');
-	_putchar('t');
-	_putchar('c');
-	_putchar('h');
-	_putchar('a');
-	_putchar('r');
-	_putchar('\n');
+	char printer[] = "_putchar";
+	int i = 0;
 
+	while (printer[i] != '\0')
+	{
+		_putchar(printer[i]);
+		i++;
+	}
+	_putchar('\n');
 	return (0);
 }
