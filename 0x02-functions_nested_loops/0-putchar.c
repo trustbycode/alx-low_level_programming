@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "main.h"
 
 /**
@@ -20,3 +21,6 @@ int main(void)
 	return (0);
 
 }
+=======
+
+>>>>>>> de24ad656588269596282f5de22bb22e69945570
