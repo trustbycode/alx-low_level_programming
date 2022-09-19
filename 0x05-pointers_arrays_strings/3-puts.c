@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - function that prints a string, followed by a new line, to stdout
+ * main - check the code
  *
  * Return: Always 0.
  */
