@@ -1,3 +1,5 @@
 Function pointers
 
-Project done during Full Stack Software Engineering studies at ALX. It aims to learn about function pointers in C language.
+What are function pointers and how to use them
+What does a function pointer exactly hold
+Where does a function pointer point to in the virtual memory
