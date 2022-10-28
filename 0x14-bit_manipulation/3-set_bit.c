@@ -2,8 +2,8 @@
 
 /**
  * set_bit - sets the value of a bit to 1.
- * 	     at a given index.
- * AUthor: OYetunde Igbekele
+ * at a given index.
+ * Author: Oyetunde Igbekele
  * @n: pointer of an unsigned long int.
  * @index: index of the bit.
  *
