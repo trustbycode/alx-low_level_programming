@@ -2,8 +2,8 @@
 
 /**
  * print_binary - prints the binary representation
- * 		 of a number.
- * AUthor: Oyetunde Igbekele
+ * of a number.
+ * Author: Oyetunde Igbekele (Trust)
  * @n: unsigned long int.
  *
  * Return: no return.
