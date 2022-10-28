@@ -2,7 +2,7 @@
 
 /**
  * get_bit - returns the value of a bit at a given
- * 	     index.
+ * index.
  * Author: Oyetunde Igbekele
  * @n: unsigned long int input.
  * @index: index of the bit.
