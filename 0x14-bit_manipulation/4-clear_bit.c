@@ -2,8 +2,8 @@
 
 /**
  * clear_bit - sets the value of a bit to 0.
- * 		at a given index.
- * Author: Oyetunde Igbekele
+ * at a given index.
+ * AUthor: Oyetunde Igbekele
  * @n: pointer of an unsigned long int.
  * @index: index of the bit.
  *
