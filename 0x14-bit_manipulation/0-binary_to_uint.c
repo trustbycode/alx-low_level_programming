@@ -2,8 +2,8 @@
 
 /**
  * binary_to_uint - converts a binary number to an
- * 		     unsigned int.
- * AUTHOR: Oyetunde Igbekele
+ * unsigned int.
+ * Author: Oyetunde Igbekele
  * @b: binary.
  *
  * Return: unsigned int.
